@@ -27,8 +27,8 @@ This is a social network API
 - Use Insomnia or similar software to hit each GET, POST, PUT, DELETE routes
 - Start the server with 'npm start'
 
-  ![Screenshot](./Assets/Screenshot1.png)
-  ![Screenshot](./Assets/Screenshot2.png)
+  ![Screenshot](/Assets/screenshot1.png)
+  ![Screenshot](/Assets/Screenshot2.png)
 
 <br>
 
