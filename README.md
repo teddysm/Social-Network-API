@@ -28,14 +28,14 @@ This is a social network API
 - Start the server with 'npm start'
 
   ![Screenshot](/Assets/screenshot1.png)
-  ![Screenshot](/Assets/Screenshot2.png)
+  ![Screenshot](/Assets/screenshot2.png)
 
 <br>
 
 ## Links
 
-Github Repo: https://github.com/teddysm/Social-Network-API
-Video walkthrough: https://drive.google.com/file/d/1nFgl4rVLRg_N-vtLCBUvCjNlCRyTrQvP/view
+- Github Repo: https://github.com/teddysm/Social-Network-API
+- Video walkthrough: https://drive.google.com/file/d/1nFgl4rVLRg_N-vtLCBUvCjNlCRyTrQvP/view
 
 <br>
 
